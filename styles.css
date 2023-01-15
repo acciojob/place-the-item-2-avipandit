@@ -2,9 +2,7 @@
 /* Your CSS Code here. */
 .holder{
   display:flex;
-  flex-direction:row;
-  flex-wrap:wrap;
-  justify-content: space-between;
+  justify-content: center;
   colume-gap: 15px;
   row-gap: 15px;
 }
